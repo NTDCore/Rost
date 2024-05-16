@@ -1,2 +1,3 @@
 # Rost
-random
+
+Funny stuff
