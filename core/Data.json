@@ -1,0 +1,34 @@
+{
+	"Whitelists":{
+		"1183370716477915259":{
+			"Accounts": [
+				"2012715343"
+			],
+			"Attackable": false,
+			"Notification": false,
+			"Kick":{
+				"Enabled": true,
+				"Reason": "what's new"
+			}
+		},
+		"617558226841632778":{
+			"Accounts": [
+				"3054176102"
+			],
+			"Attackable": false,
+			"Notification": false,
+			"Kick":{
+				"Enabled": true,
+				"Reason": "fish"
+			}
+		}
+	},
+	"Blacklists":{},
+	"Announce":{
+		"Title": "Rost",
+		"Message": "what's new",
+		"Enabled": false,
+		"Repeat": false,
+		"Delay": "60"
+	}
+}
